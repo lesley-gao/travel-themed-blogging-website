@@ -51,12 +51,20 @@ For the demo video, please refer to [the link here](https://drive.google.com/fil
 <br />
 
 ## Quick Start
- 
-- Clone the repository 
-- Open the project in VSCode
-- Navigate to the frontend folder and execute `npm install` to install the module dependencies. Then run `npm run dev`.
-- Navigate to the backend folder and execute `npm install`and `npm run dev`.
 
+1. Clone the repository.
+2. Open the project in VSCode.
+3. Open the terminal.
+4. Navigate to the `frontend` folder and execute:
+```
+npm install
+npm run dev
+```
+4. Navigate to the `backend` folder and execute:
+```
+npm install
+npm run dev
+```
 **Recommendation:** Please use **CHROME** for better experience.
 
 <br />
@@ -64,3 +72,5 @@ For the demo video, please refer to [the link here](https://drive.google.com/fil
 ## Collaborators
 
 Our group, **"The Coding L-A-R-K"**, includes four members: **L**esley, **A**lan, **R**ita, **K**iko. Thanks to our seamless teamwork, constant communication, and valuable feedback, we successfully met our expectations. 
+
+
