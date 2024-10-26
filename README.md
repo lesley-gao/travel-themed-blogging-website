@@ -33,11 +33,11 @@ This is a group project where we created a personal blogging system called "Blog
 ## Main Features
 
 - Visitors can easily browse all articles or search and sort articles.
-- Users can create their accounts and build up their own blogging pages, showcasing their personal information and the articles they created. 
+- Users can create their accounts and build their own blogging pages, showcasing their personal information and the articles they created. 
 - Articles can be created using a user-friendly editor that allows for text formatting.  
 - Other registered users can engage with articles by liking them and leaving comments. 
 - Users can also choose to show or hide comments for a better reading experience.
-- A responsive UI design that adapts to different screen sizes 
+- A responsive UI design that adapts to different screen sizes. 
 
 <br />
 
