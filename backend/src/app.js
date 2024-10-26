@@ -41,5 +41,5 @@ await getDatabase();
 
 // Start the server running.
 app.listen(PORT, () => {
-  console.log(`PGCIT Final Project server listening on port ${PORT}`);
+  console.log(`Server listening on port ${PORT}`);
 });
