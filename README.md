@@ -44,15 +44,15 @@ This is a group project where we created a personal blogging system called "Blog
 ## UI Preview
 
 <img src="./frontend/static/homepage.gif" alt="homepage"  >
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; ">
   <img src="./frontend/static/all-articles.png" alt="All Articles" width="33%">
-  <img src="./frontend/static/onedestination.png" alt="One Destination" width="33%">
+  <img src="./frontend/static/onedestination.png" alt="One Destination" width="335">
   <img src="./frontend/static/signup.png" alt="Signup" width="33%">
 </div>
 
 <br />
 
-For the demo video, please refer to [the link here](https://drive.google.com/file/d/1YB70KMBh1vlhGcaGgWhrpDxcYgTXJ2bd/view?usp=sharing).
+For the demo video, please refer to [the link here](https://drive.google.com/file/d/1YB70KMBh1vlhGcaGgWhrpDxcYgTXJ2bd/view?usp=drive_link).
 
 <br />
 
