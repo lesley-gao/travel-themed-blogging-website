@@ -43,15 +43,9 @@ This is a group project where we created a personal blogging system called "Blog
 
 ## UI Preview
 
-<img src="./frontend/static/homepage.gif" alt="homepage"  >
-<div style="display: flex; ">
-  <img src="./frontend/static/all-articles.png" alt="All Articles" width="33%">
-  <img src="./frontend/static/onedestination.png" alt="One Destination" width="335">
-  <img src="./frontend/static/signup.png" alt="Signup" width="33%">
-</div>
-
-<br />
-
+![](./frontend/static/homepage.gif)
+![](./frontend/static/all-articles.png)
+![](./frontend/static/onedestination.png)
 For the demo video, please refer to [the link here](https://drive.google.com/file/d/1YB70KMBh1vlhGcaGgWhrpDxcYgTXJ2bd/view?usp=drive_link).
 
 <br />
@@ -63,7 +57,7 @@ For the demo video, please refer to [the link here](https://drive.google.com/fil
 - Navigate to the frontend folder and execute `npm install` to install the module dependencies. Then run `npm run dev`.
 - Navigate to the backend folder and execute `npm install`and `npm run dev`.
 
-**Recommendation:** Please use **CHROME** for better experience~
+**Recommendation:** Please use **CHROME** for better experience.
 
 <br />
 
